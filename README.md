@@ -1,5 +1,5 @@
 # hello-world
 just another repository
-Hi, this is my first steps in github.
+Hi, these are my first steps in github.
 I had tacos.
 I had also patatos.
